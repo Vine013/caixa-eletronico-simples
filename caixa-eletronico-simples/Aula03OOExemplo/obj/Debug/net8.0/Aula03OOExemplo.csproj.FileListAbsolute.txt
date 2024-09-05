@@ -1,0 +1,14 @@
+C:\Users\vfgsa\source\repos\Aula03OOExemplo\Aula03OOExemplo\bin\Debug\net8.0\Aula03OOExemplo.exe
+C:\Users\vfgsa\source\repos\Aula03OOExemplo\Aula03OOExemplo\bin\Debug\net8.0\Aula03OOExemplo.deps.json
+C:\Users\vfgsa\source\repos\Aula03OOExemplo\Aula03OOExemplo\bin\Debug\net8.0\Aula03OOExemplo.runtimeconfig.json
+C:\Users\vfgsa\source\repos\Aula03OOExemplo\Aula03OOExemplo\bin\Debug\net8.0\Aula03OOExemplo.dll
+C:\Users\vfgsa\source\repos\Aula03OOExemplo\Aula03OOExemplo\bin\Debug\net8.0\Aula03OOExemplo.pdb
+C:\Users\vfgsa\source\repos\Aula03OOExemplo\Aula03OOExemplo\obj\Debug\net8.0\Aula03OOExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vfgsa\source\repos\Aula03OOExemplo\Aula03OOExemplo\obj\Debug\net8.0\Aula03OOExemplo.AssemblyInfoInputs.cache
+C:\Users\vfgsa\source\repos\Aula03OOExemplo\Aula03OOExemplo\obj\Debug\net8.0\Aula03OOExemplo.AssemblyInfo.cs
+C:\Users\vfgsa\source\repos\Aula03OOExemplo\Aula03OOExemplo\obj\Debug\net8.0\Aula03OOExemplo.csproj.CoreCompileInputs.cache
+C:\Users\vfgsa\source\repos\Aula03OOExemplo\Aula03OOExemplo\obj\Debug\net8.0\Aula03OOExemplo.dll
+C:\Users\vfgsa\source\repos\Aula03OOExemplo\Aula03OOExemplo\obj\Debug\net8.0\refint\Aula03OOExemplo.dll
+C:\Users\vfgsa\source\repos\Aula03OOExemplo\Aula03OOExemplo\obj\Debug\net8.0\Aula03OOExemplo.pdb
+C:\Users\vfgsa\source\repos\Aula03OOExemplo\Aula03OOExemplo\obj\Debug\net8.0\Aula03OOExemplo.genruntimeconfig.cache
+C:\Users\vfgsa\source\repos\Aula03OOExemplo\Aula03OOExemplo\obj\Debug\net8.0\ref\Aula03OOExemplo.dll
